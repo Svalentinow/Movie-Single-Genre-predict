@@ -4,4 +4,4 @@ link to original dataset - https://www.kaggle.com/datasets/jrobischon/wikipedia-
 
 ### Scrapping notebook uses selenium to scrape for budget and revenue on tmdb
 
-### Excel folder contains various metrics such as confusion matrix, precision and recall to evaluate models
+### Excel folder contains various metrics such as confusion matrix, precision and recall to evaluate models using Excel
